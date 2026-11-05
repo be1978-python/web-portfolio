@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-05",
+  "episode": "EP.02",
+  "topic": "해운대 복국 한 끼와 동백섬 산책",
+  "route": [
+    {
+      "name": "금수복국 해운대본점",
+      "address": "부산광역시 해운대구 중동1로43번길 23",
+      "purpose": "한 끼 / 복국",
+      "source": "https://guide.michelin.com/kr/ko/busan-region/busan_1025838/restaurant/kumsu-bokguk"
+    },
+    {
+      "name": "해운대해수욕장",
+      "purpose": "해변 산책"
+    },
+    {
+      "name": "동백섬 해안산책로",
+      "purpose": "바다와 숲 산책",
+      "source": "https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=284"
+    }
+  ],
+  "editorial_route_note": "식당에서 해변으로 이동한 뒤 해변 서쪽 끝 동백섬으로 이어 걷는 편집 추천 동선. 실시간 보행 경로·이동 시간은 검증하지 않아 분 단위 소요시간이나 정확한 거리를 표시하지 않음.",
+  "keyword_searches": [
+    {
+      "platform": "YouTube",
+      "query": "금수복국 해운대 youtube",
+      "method": "웹 키워드 검색",
+      "result": "해운대 금수복국 / BusanInsider 검색결과 제목·게시일·설명문 확인",
+      "search_url": "https://www.youtube.com/results?search_query=%EA%B8%88%EC%88%98%EB%B3%B5%EA%B5%AD+%ED%95%B4%EC%9A%B4%EB%8C%80",
+      "access": "검색결과 메타데이터 열람 가능. 직접 영상 URL fetch 실패; 영상 전체 재생·내용 시청은 미검증.",
+      "login_restriction": "로그인 화면을 직접 확인하지 못함. 비로그인 검색 메타데이터만 이용.",
+      "browser_verification": "YouTube 실제 키워드 검색 페이지 제목·설명문·출처 링크 확인. 기존 브라우저 로그인 세션으로 검색 결과 열람; 신규 로그인/계정변경/활동 없음."
+    },
+    {
+      "platform": "Instagram",
+      "query": "해운대 금수복국; site:instagram.com 금수복국; site:instagram.com/reel/ 해운대 동백섬",
+      "method": "웹 키워드 검색 및 Instagram 키워드 검색 URL 직접 열기 시도",
+      "search_url": "https://www.instagram.com/explore/search/keyword/?q=%ED%95%B4%EC%9A%B4%EB%8C%80%20%EA%B8%88%EC%88%98%EB%B3%B5%EA%B5%AD",
+      "result": "검색 URL 접속 후 Instagram accounts/login 페이지로 리다이렉트되어 참고 릴스 확보하지 못함.",
+      "access": "로그인 리다이렉트로 검색 게시물·영상 열람 불가",
+      "login_restriction": "로그인 필요 확인; 인증 우회·신규 로그인 없음",
+      "browser_verification": "Chrome에서 키워드 검색 URL을 열자 /accounts/login/?next=... 로 리다이렉트됨. 로그인 요구 직접 확인. 로그인하지 않고 종료."
+    }
+  ],
+  "reference_videos": [
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=KDjs93W2vdI",
+      "title": "해운대 금수복국",
+      "creator": "BusanInsider",
+      "published_at": "2023-05-26",
+      "access_level": "검색결과 메타데이터(제목·채널·게시일·설명문)만 확인; 영상 전체 내용 미시청",
+      "reference_purpose": "해운대 금수복국 키워드의 음식 소개 영상 출처로 보관. 오래된 설명의 가격은 사용하지 않음.",
+      "reuse_permission": "명시적 재사용 권한·CC 라이선스 확인 불가",
+      "used_in_video": false,
+      "downloaded": false
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/watch?v=zKAdh_Iac8E",
+      "title": "부산 미슐랭 I 부산에서 복국하면 여기는 한번 가봐야죠!!! l 금수복국 I [Zoo_Haru] #84",
+      "creator": "Haru Sobi",
+      "access_level": "실제 YouTube 키워드 검색 결과 제목·설명·채널만 확인. 전체 영상 재생·내용 시청 미검증.",
+      "reference_purpose": "복국·금수복국 소개 영상 출처로만 보관. 맛·가격 주장을 영상에 인용하지 않음.",
+      "reuse_permission": "재사용 허가/CC 확인 불가",
+      "used_in_video": false,
+      "downloaded": false
+    }
+  ],
+  "verification": [
+    {
+      "url": "https://guide.michelin.com/kr/ko/busan-region/busan_1025838/restaurant/kumsu-bokguk",
+      "publisher": "MICHELIN Guide",
+      "confirmed": [
+        "해운대 금수복국 본점",
+        "복어 요리 전문점",
+        "주소 중동1로43번길 23",
+        "전화 051-742-3600"
+      ],
+      "limits": "가격·영업시간·대기는 영상에 확정적으로 표시하지 않음. 방문 전 식당에 확인."
+    },
+    {
+      "url": "https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=284",
+      "publisher": "부산관광공사 Visit Busan",
+      "title": "바다와 산, 그리고 부산을 걷다 / 부산을 담은 동백해안산책로",
+      "confirmed": [
+        "해운대 백사장 끝자락에서 동백섬으로 연결",
+        "동백공원 해송·해안산책로",
+        "전망대에서 누리마루 APEC하우스·광안대교 조망"
+      ],
+      "limits": "산책로 실시간 개방·기상상황과 누리마루 내부 관람 가능 여부는 확인하지 않음. 누리마루는 외관 조망만 추천."
+    }
+  ],
+  "script_suggestion": [
+    {
+      "start": 0,
+      "end": 2,
+      "title": "해운대, 한 끼 다음은?",
+      "subtitle": "복국에서 바닷길까지"
+    },
+    {
+      "start": 2,
+      "end": 6,
+      "title": "따뜻한 복국 한 그릇",
+      "subtitle": "한 끼는 금수복국 해운대본점"
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "title": "식사 뒤엔 바다로",
+      "subtitle": "해운대해수욕장으로 이어 걷기"
+    },
+    {
+      "start": 10,
+      "end": 14,
+      "title": "해변을 따라 천천히",
+      "subtitle": "서쪽 끝, 동백섬 쪽으로"
+    },
+    {
+      "start": 14,
+      "end": 18,
+      "title": "모래사장 너머 숲길",
+      "subtitle": "동백섬 해안산책로"
+    },
+    {
+      "start": 18,
+      "end": 22,
+      "title": "소나무와 바다 사이",
+      "subtitle": "발걸음마다 다른 해안 풍경"
+    },
+    {
+      "start": 22,
+      "end": 26,
+      "title": "전망대에서 한 장면",
+      "subtitle": "누리마루 APEC하우스 조망"
+    },
+    {
+      "start": 26,
+      "end": 30,
+      "title": "이 코스, 저장해 두세요",
+      "subtitle": "금수복국 → 해운대 → 동백섬"
+    }
+  ],
+  "description_draft": "해운대, 한 끼 다음은 어디로?\n따뜻한 복국 한 그릇으로 시작해 해운대해수욕장을 걷고, 해변 서쪽 끝에서 동백섬 해안산책로로 이어지는 코스입니다.\n\n📍 금수복국 해운대본점 → 해운대해수욕장 → 동백섬 해안산책로\n같이 갈 사람에게 보내고, 다음 부산 여행을 위해 저장해 두세요.\n\n직접 방문 후기가 아닌 자료 조사 기반 편집 추천입니다. 방문 전 영업시간·휴무·대기와 산책로 개방·기상을 확인하세요. 누리마루는 외관 조망 기준입니다. 음식·매장 실사는 재사용 가능한 권리 자료를 확보한 경우에만 포함합니다.\n\n#부산30초 #부산여행 #해운대 #금수복국 #동백섬 #부산산책",
+  "limitations": [
+    "YouTube 원본 영상 재사용 권한을 확인하지 못해 클립·오디오·썸네일 미삽입",
+    "Instagram 실제 검색 URL이 로그인 페이지로 리다이렉트되어 영상 미열람",
+    "가격·세부 영업시간·대기·정확한 보행 소요시간 미확인",
+    "직접 방문·촬영 후기 아님; 자료 조사 기반 편집 추천",
+    "사진은 프로젝트의 별도 라이선스 기록을 따름",
+    "복국은 일반 자료사진이며 금수복국 음식·매장 실사 아님",
+    "음악·내레이션 없는 자막형 무음 사진 영상",
+    "사진자료 촬영일은 오늘이 아니며 현장 상태와 다를 수 있음"
+  ]
+}
