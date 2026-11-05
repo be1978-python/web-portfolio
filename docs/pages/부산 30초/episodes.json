@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "episodes": [
+    {
+      "episode": "EP.01",
+      "date": "2026-11-04",
+      "topic_key": "gwangalli-millak-pork-soup-night",
+      "topic": "광안리·민락 국밥과 야경",
+      "video": "busan-ep01.mp4",
+      "references": "references.json"
+    },
+    {
+      "episode": "EP.02",
+      "date": "2026-11-05",
+      "topic_key": "haeundae-bokguk-dongbaek-walk",
+      "topic": "해운대 복국 한 끼와 동백섬 산책",
+      "video": "episodes/2026-11-05-haeundae/busan-ep02.mp4",
+      "references": "episodes/2026-11-05-haeundae/references.json"
+    }
+  ]
+}
